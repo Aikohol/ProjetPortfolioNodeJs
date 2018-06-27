@@ -1,0 +1,20 @@
+{
+  "name": "PHP_Avance_Portfolio",
+  "version": "1.0.0",
+  "dependencies": {
+	  "ejs": "^1.0.0",
+	  "express": "^4.6.1"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.epitech.eu:/tio.gobin@epitech.eu/PHP_Avance_Portfolio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
